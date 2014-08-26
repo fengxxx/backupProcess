@@ -1,0 +1,10 @@
+Everything.exe|"D:\Everything\Everything.exe" -startup
+strokeit.exe|"C:\Program Files (x86)\TCB Networks\StrokeIt\strokeit.exe" 
+ALTRun.exe|"D:\ALTRun\ALTRun.exe" 
+cloudmusic.exe|"D:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe"        
+firefox.exe|"C:\Program Files (x86)\Mozilla Firefox\firefox.exe"  
+cloudmusic.exe|"D:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe" --type=gpu-process --channel="8584.0.887499747\92767248" --no-sandbox --lang=en-US --log-file="C:\Users\HIH-D-670\AppData\Local\Netease\CloudMusic\web.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=1,15,39 --gpu-vendor-id=0x10de --gpu-device-id=0x0fc6 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.3788 --lang=en-US --log-file="C:\Users\HIH-D-670\AppData\Local\Netease\CloudMusic\web.log" /prefetch:822062411
+cloudmusic.exe|"D:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe" --type=renderer --no-sandbox --touch-events=disabled --lang=en-US --lang=en-US --log-file="C:\Users\HIH-D-670\AppData\Local\Netease\CloudMusic\web.log" --context-safety-implementation=-1 --uncaught-exception-stack-size=1048576 --enable-threaded-compositing --enable-delegated-renderer --enable-software-compositing --channel="8584.1.1323565618\1774631348" /prefetch:673131151
+Thunder.exe|"D:\Thunder Network\Program\Thunder.exe" -silent -noshowfloatpanel -noshownewtaskdlg -StartFrom:XLDownloadClient -StartType:firefox.exe_XLDownloadClient -ClientProcess:firefox.exe -StartSource:leftup
+ImagePin.exe|"D:\ImagePin\ImagePin.exe" 
+ImagePin.exe|"D:\ImagePin\ImagePin.exe" 
